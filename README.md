@@ -1,7 +1,5 @@
 # Choplifter
 
-> Know what I miss—the old Choplifter game that used to be available on Apple personal computers in the early 1980s. Back when I was a kid in Muncie, Indiana, there was an arcade that had a row of Apple PCs in the back rigged up to play Choplifter. I loved that. Write me a playable version of Choplifter.
-
 A fan homage to the 1982 Apple ][ classic *Choplifter*, written from scratch as a single self-contained HTML file. Retro pixel art, chiptune-style sound effects, and CRT scanlines included — no dependencies, no build step.
 
 ## Play
